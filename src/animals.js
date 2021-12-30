@@ -1,6 +1,6 @@
 export const animals = {
     dolphin: {
-      image: 'https://assets.stickpng.com/images/580b57fbd9996e24bc43bcc7.png',
+      image: 'https://media.slid.es/uploads/520869/images/3613477/dolphin_PNG9130.png',
       facts: ['Dolphins have been shown to give distinct names to each other!', 'Dolphins are known to display their own culture!', 'Dolphins have two stomachs!']
     },
     lobster: {

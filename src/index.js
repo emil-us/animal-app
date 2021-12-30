@@ -15,7 +15,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles.css';
 
-const background = <img className='background' alt='ocean' src='/images/ocean.jpg' />
+const background = <img className='background' alt='ocean' src='https://cdn.wallpapersafari.com/66/7/qedwKz.jpg' />
 const title = '';
 
 const images = [];
